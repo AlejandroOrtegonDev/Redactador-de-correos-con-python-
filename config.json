@@ -1,0 +1,13 @@
+{
+    "tema": "superhero",
+    "fuente_size": 10,
+    "auto_scroll": true,
+    "sonido": true,
+    "modelo": "llama2",
+    "temperatura": 0.7,
+    "email": "",
+    "nombre_correo": "",
+    "ruta_firma_png": "",
+    "datos_contacto": "",
+    "PaswordMail": ""
+}
