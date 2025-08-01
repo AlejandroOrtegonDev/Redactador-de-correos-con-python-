@@ -23,7 +23,8 @@ Este proyecto es una aplicación de escritorio desarrollada en **Python** que ut
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
-
    ```bash
-   git clone https:
-   cd nombre-repo
+   git clone https://github.com/AlejandroOrtegonDev/Redactador-de-correos-con-python-.git
+
+2. descarga el ejecutable aca
+[![image.png](https://i.postimg.cc/d34c4rCJ/image.png)](https://postimg.cc/642PQ7zP)
