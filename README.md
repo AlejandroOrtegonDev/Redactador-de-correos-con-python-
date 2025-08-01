@@ -11,8 +11,8 @@ Este proyecto es una aplicación de escritorio desarrollada en **Python** que ut
 
 - Generación automática de respuestas con IA (modelo local de Ollama)
 - Redacción y envío de correos electrónicos desde la aplicación
-- Interfaz gráfica moderna usando `Tkinter` y `TtkBootstrap`
-- Personalización del tema (claro/oscuro y estilos Bootstrap)
+- Interfaz gráfica usando `Tkinter` y `TtkBootstrap`
+- Personalización del tema (estilos Bootstrap)
 - Campos editables: nombre, asunto, destinatario, contenido
 
 ## Tecnologías utilizadas
@@ -21,10 +21,10 @@ Este proyecto es una aplicación de escritorio desarrollada en **Python** que ut
 - Tkinter + TtkBootstrap
 - Ollama (modelos de lenguaje local)
 - smtplib / email.mime para envío de correos
-- dotenv (opcional) para manejo de configuraciones
 
 ## ¿Cómo ejecutar el proyecto?
 
+antes de instalar el programa debes tener installado OLLAMA en tu local descargalo en https://ollama.com/download
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/AlejandroOrtegonDev/Redactador-de-correos-con-python-.git
