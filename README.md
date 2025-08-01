@@ -1,2 +1,29 @@
 # Redactador-de-correos-con-python-
 Redactador de correos con python con ollama 
+# Redactor de Correos con IA – Ollama + Python
+
+Este proyecto es una aplicación de escritorio desarrollada en **Python** que utiliza la inteligencia artificial de **Ollama** para generar y redactar automáticamente correos electrónicos. Ideal para automatizar respuestas profesionales, mensajes informales o asistencia personalizada.
+
+## Características
+
+- Generación automática de respuestas con IA (modelo local de Ollama)
+- Redacción y envío de correos electrónicos desde la aplicación
+- Interfaz gráfica moderna usando `Tkinter` y `TtkBootstrap`
+- Personalización del tema (claro/oscuro y estilos Bootstrap)
+- Campos editables: nombre, asunto, destinatario, contenido
+
+## Tecnologías utilizadas
+
+- Python 3
+- Tkinter + TtkBootstrap
+- Ollama (modelos de lenguaje local)
+- smtplib / email.mime para envío de correos
+- dotenv (opcional) para manejo de configuraciones
+
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https:
+   cd nombre-repo
